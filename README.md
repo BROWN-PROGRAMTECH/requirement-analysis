@@ -37,5 +37,6 @@ What is Requirement Analysis? It is a crucial process in software engineering th
   ## Use Case Diagrams.
       This is a UML Diagram helping to visually represent the interaction between a user and the system to perform a specific task.
       This diagram is important because it facilitates the understanding of the interaction between the user and the system. Using this, everybody can understand the 
-      different user types the system can have, and actions that each can perform. 
+      different user types the system can have, and the actions that each can perform. 
       
+<img width="1360" height="1760" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/b840f278-bdb8-45d4-8615-35fdb33a580f" />
